@@ -1,1 +1,4 @@
 Assets/TextMesh?Pro/* linguist-vendored
+Assets/Resources/* linguist-vendored
+ProjectSettings/* linguist-vendored
+*.shader linguist-vendored
